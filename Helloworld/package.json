@@ -1,0 +1,10 @@
+{
+  "name": "helloworld",
+  "version": "0.0.0",
+  "description": "Helloworld",
+  "main": "app.js",
+  "author": {
+    "name": "cloud"
+  },
+  "dependencies": {}
+}
